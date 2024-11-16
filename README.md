@@ -21,7 +21,7 @@ Generative models are essential for several reasons:
 ### **Discriminative vs. Generative Models**  
 **Discriminative Models** predict labels for given inputs (e.g., logistic regression, SVMs).  
 **Generative Models** learn the underlying data distribution to create or simulate data.  
-![Discriminative vs Generative Models](https://www.researchgate.net/profile/Emiliano-De-Cristofaro/publication/341478640/figure/fig1/AS:892753777004545@1589860495394/A-simple-illustration-of-how-one-can-use-discriminative-vs-generative-models-The-former.ppm)  
+![Discriminative vs Generative Models](https://github.com/ParitKansal/photos/blob/main/Discriminative%20vs%20Generative%20Models.ppm)  
 
 **Key Difference:**  
 - Discriminative models focus on the boundary between classes.  
