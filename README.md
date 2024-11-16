@@ -77,5 +77,10 @@ The **Generative AI Pipeline** provides a systematic approach to build generativ
   - Options: On-premise, cloud platforms, or APIs.  
 - **Monitoring & Updates**  
   - Monitor model performance, adapt to new data, and mitigate drift.  
-
 ---  
+#### **Complete word**
+- **Corpus**: A collection of written or spoken texts.
+- **Word**: A single word.
+- **Vocabulary**: The set of unique words in a corpus.
+- **Document**: A single entity of text, such as a paragraph, line, or file, within the corpus.
+
