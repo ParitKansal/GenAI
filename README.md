@@ -1,7 +1,4 @@
 
-<iframe src="https://jalammar.github.io/illustrated-transformer/"> </iframe>
-
-
 # GenAI
 
 ### **What is Generative AI?**  
@@ -120,3 +117,10 @@ The **Generative AI Pipeline** provides a systematic approach to build generativ
 - Spelling Corrector
 
 ---
+
+**Transformers**
+
+<a href="https://jalammar.github.io/illustrated-transformer/">
+    <img src="https://github.com/ParitKansal/photos/blob/main/transformers.png" alt="Illustrated Transformer">
+</a>
+
