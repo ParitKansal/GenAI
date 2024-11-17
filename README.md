@@ -84,3 +84,35 @@ The **Generative AI Pipeline** provides a systematic approach to build generativ
 - **Vocabulary**: The set of unique words in a corpus.
 - **Document**: A single entity of text, such as a paragraph, line, or file, within the corpus.
 
+---
+
+#### **Few milestone in large language model**
+- **Gemini**: was developed by Google
+- **GPT**: GPT stands for "Generative Pre-trained Transformer". The model was developed by OpenAl
+- **XLM**: Cross-lingual Language Model Pretraining by Guillaume Lample, Alexis Conneau.
+- **Llama**: It was created by Meta Al
+- **Megatron**: Megatron is a large, powerful transformer developed by the Applied Deep Learnin Research team at NVIDIA
+- **M2M-100**: multilingual encoder-decoder (seq-to-seq) model researchers at Facebook
+
+![](https://github.com/ParitKansal/photos/blob/main/TypesOfTransformer.png)
+
+---
+
+**Other Open Source Models**
+- Mistral
+- Llama
+- Gemini
+- Falcon
+- Claude
+- MPT-30B
+- Stablelm
+
+**What can LLMs be used for?**
+- Text Classification
+- Text Generation
+- Text Summarization
+- Conversation Al like chatbot, Question Answering
+- Speech recognition and Speech identification
+- Spelling Corrector
+
+---
