@@ -124,3 +124,6 @@ The **Generative AI Pipeline** provides a systematic approach to build generativ
     <img src="https://github.com/ParitKansal/photos/blob/main/transformers.png" alt="Illustrated Transformer">
 </a>
 
+---
+
+![](https://github.com/ParitKansal/photos/blob/main/Vector_Embeddings_1.png)
